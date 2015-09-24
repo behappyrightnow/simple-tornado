@@ -1,0 +1,1 @@
+This is an Excel Macro that helps put together Tornado Charts quickly. It is very straightforward and comes loaded with an example that you can follow.
